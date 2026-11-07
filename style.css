@@ -341,7 +341,7 @@ input {
 	position: absolute;
 	right: 12px;
 	padding: 5px;
-	border: 0;
+	border: 2;
 	background: transparent;
 	color: #a89ad8;
 	font-size: 10px;
